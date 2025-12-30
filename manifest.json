@@ -1,0 +1,12 @@
+{
+  "name": "Okarun Anime Repo",
+  "author": "okarun4k-sudo",
+  "description": "Repositório privado de animes e filmes com player integrado",
+  "version": 1,
+  "baseUrl": "https://raw.githubusercontent.com/okarun4k-sudo/meu-app-anime-data/main/",
+  "language": "pt-BR",
+  "type": "video",
+  "pluginLists": [
+    "https://raw.githubusercontent.com/okarun4k-sudo/meu-app-anime-data/main/animes.json"
+  ]
+}
