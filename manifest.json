@@ -1,12 +1,50 @@
-{
-  "name": "Okarun Anime Repo",
-  "author": "okarun4k-sudo",
-  "description": "Repositório privado de animes e filmes com player integrado",
-  "version": 1,
-  "baseUrl": "https://raw.githubusercontent.com/okarun4k-sudo/meu-app-anime-data/main/",
-  "language": "pt-BR",
-  "type": "video",
-  "pluginLists": [
-    "https://raw.githubusercontent.com/okarun4k-sudo/meu-app-anime-data/main/animes.json"
-  ]
-}
+[
+  {
+    "name": "AnimeFire",
+    "url": "https://animefire.io",
+    "apiName": "AnimeFireProvider",
+    "type": "video"
+  },
+  {
+    "name": "Animes Online CC",
+    "url": "https://animesonlinecc.to",
+    "apiName": "AnimesOnlineCCProvider",
+    "type": "video"
+  },
+  {
+    "name": "Animes Digital",
+    "url": "https://animesdigital.org",
+    "apiName": "AnimesDigitalProvider",
+    "type": "video"
+  },
+  {
+    "name": "AniTube",
+    "url": "https://www.anitube.news",
+    "apiName": "AniTubeProvider",
+    "type": "video"
+  },
+  {
+    "name": "Animes Online Gratis",
+    "url": "https://animesonline.gratis",
+    "apiName": "AnimesOnlineGratisProvider",
+    "type": "video"
+  },
+  {
+    "name": "AnimeQ",
+    "url": "https://animeq.net",
+    "apiName": "AnimeQProvider",
+    "type": "video"
+  },
+  {
+    "name": "TioAnime",
+    "url": "https://tioanime.com",
+    "apiName": "TioAnimeProvider",
+    "type": "video"
+  },
+  {
+    "name": "AnimeCore",
+    "url": "https://animecore.to",
+    "apiName": "AnimeCoreProvider",
+    "type": "video"
+  }
+]
