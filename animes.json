@@ -1,106 +1,271 @@
-{
-  "last_update": "2025-12-30",
-  "animes": [
-    {
-      "id": "53421",
-      "titulo": "Dosanko Gal wa Namara Menkoi",
-      "capa": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155963-7p3S9XW4X5W1.jpg",
-      "episodios": [
-        { "numero": "1", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/1.mp4", "lang": "Dublado" },
-        { "numero": "2", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/2.mp4", "lang": "Dublado" },
-        { "numero": "3", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/3.mp4", "lang": "Dublado" },
-        { "numero": "4", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/4.mp4", "lang": "Dublado" },
-        { "numero": "5", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/5.mp4", "lang": "Dublado" },
-        { "numero": "6", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/6.mp4", "lang": "Dublado" },
-        { "numero": "7", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/7.mp4", "lang": "Dublado" },
-        { "numero": "8", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/8.mp4", "lang": "Dublado" },
-        { "numero": "9", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/9.mp4", "lang": "Dublado" },
-        { "numero": "10", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/10.mp4", "lang": "Dublado" },
-        { "numero": "11", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/11.mp4", "lang": "Dublado" }
-      ]
-    },
-    {
-      "id": "854",
-      "titulo": "NHK ni Youkoso!",
-      "capa": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx854-Y9zBv4L0Z4Z5.jpg",
-      "episodios": [
-        { "numero": "1", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/1.mp4", "lang": "Legendado" },
-        { "numero": "2", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/2.mp4", "lang": "Legendado" },
-        { "numero": "3", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/3.mp4", "lang": "Legendado" },
-        { "numero": "4", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/4.mp4", "lang": "Legendado" },
-        { "numero": "5", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/5.mp4", "lang": "Legendado" },
-        { "numero": "6", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/6.mp4", "lang": "Legendado" },
-        { "numero": "7", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/7.mp4", "lang": "Legendado" },
-        { "numero": "8", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/8.mp4", "lang": "Legendado" },
-        { "numero": "9", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/9.mp4", "lang": "Legendado" },
-        { "numero": "10", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/10.mp4", "lang": "Legendado" },
-        { "numero": "11", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/11.mp4", "lang": "Legendado" },
-        { "numero": "12", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/12.mp4", "lang": "Legendado" },
-        { "numero": "13", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/13.mp4", "lang": "Legendado" },
-        { "numero": "14", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/14.mp4", "lang": "Legendado" },
-        { "numero": "15", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/15.mp4", "lang": "Legendado" },
-        { "numero": "16", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/16.mp4", "lang": "Legendado" },
-        { "numero": "17", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/17.mp4", "lang": "Legendado" },
-        { "numero": "18", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/18.mp4", "lang": "Legendado" },
-        { "numero": "19", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/19.mp4", "lang": "Legendado" },
-        { "numero": "20", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/20.mp4", "lang": "Legendado" },
-        { "numero": "21", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/21.mp4", "lang": "Legendado" },
-        { "numero": "22", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/22.mp4", "lang": "Legendado" },
-        { "numero": "23", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/23.mp4", "lang": "Legendado" },
-        { "numero": "24", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/24.mp4", "lang": "Legendado" }
-      ]
-    },
-    {
-      "id": "52701",
-      "titulo": "Dandadan",
-      "capa": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-9Psc0v2V3W5b.jpg",
-      "episodios": [
-        { "numero": "1", "url": "https://files.catbox.moe/f3e2pe.mp4", "lang": "Dublado" },
-        { "numero": "2", "url": "https://files.catbox.moe/8fkh7x.mp4", "lang": "Legendado" },
-        { "numero": "3", "url": "https://files.catbox.moe/hr29r6.mp4", "lang": "Legendado" },
-        { "numero": "4", "url": "https://files.catbox.moe/54wo2n.mp4", "lang": "Legendado" },
-        { "numero": "5", "url": "https://files.catbox.moe/whx4w0.mp4", "lang": "Legendado" },
-        { "numero": "6", "url": "https://files.catbox.moe/n63htj.mp4", "lang": "Legendado" },
-        { "numero": "7", "url": "https://files.catbox.moe/5ittup.mp4", "lang": "Legendado" },
-        { "numero": "8", "url": "https://files.catbox.moe/nep3zs.mp4", "lang": "Legendado" },
-        { "numero": "9", "url": "https://files.catbox.moe/ewft5w.mp4", "lang": "Legendado" },
-        { "numero": "10", "url": "https://files.catbox.moe/gs52qo.mp4", "lang": "Legendado" },
-        { "numero": "11", "url": "https://files.catbox.moe/0n7nzl.mp4", "lang": "Legendado" },
-        { "numero": "12", "url": "https://files.catbox.moe/pmoywp.mp4", "lang": "Legendado" }
-      ]
-    },
-    {
-      "id": "31240",
-      "titulo": "Re:Zero kara Hajimeru Isekai Seikatsu",
-      "capa": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-6vY9o6e8U4mF.png",
-      "episodios_leg": [
-        { "numero": "1", "url": "https://ucarecdn.com/c42411a7-1929-4cde-9dcb-1bf538c6c0d5/" },
-        { "numero": "2", "url": "https://files.catbox.moe/euw1z1.mp4" }
-      ],
-      "episodios_dub": [
-        { "numero": "1", "url": "https://ucarecdn.com/eea57af5-1e2b-43a5-967a-6b6e5cbaca8e/" },
-        { "numero": "2", "url": "https://files.catbox.moe/4w5zl1.mp4" }
-      ]
-    },
-    {
-      "id": "47917",
-      "titulo": "Bocchi the Rock!",
-      "capa": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130003-5Yf6X6X5W1X.jpg",
-      "episodios": [
-        { "numero": "1", "url": "https://lightspeedst.net/s4/mp4/bocchi-the-rock/sd/1.mp4" },
-        { "numero": "2", "url": "https://lightspeedst.net/s3/mp4/bocchi-the-rock/sd/2.mp4" },
-        { "numero": "3", "url": "https://lightspeedst.net/s3/mp4/bocchi-the-rock/sd/3.mp4" }
-      ]
-    },
-    {
-      "id": "32281",
-      "titulo": "Kimi no Na wa (Your Name)",
-      "capa": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21519-S0X6X5W1X5W.jpg",
-      "episodios": [
-        { "numero": "Filme Dub", "url": "https://lightspeedst.net/s3/mp4/kimi-no-na-wa-dublado/sd/1.mp4" },
-        { "numero": "Filme Leg", "url": "https://lightspeedst.net/s3/mp4/kimi-no-na-wa/sd/1.mp4" }
-      ]
-    }
-  ],
-  "mangas": []
-}
+[
+  {
+    "id": "53421",
+    "title": "Dosanko Gal wa Namara Menkoi",
+    "image_url": "https://files.catbox.moe/mushuq.jpg",
+    "description": "Uma comédia romântica em Hokkaido.",
+    "categories": ["Romance", "Escolar", "Dublado"],
+    "seasons": [
+      {
+        "name": "Temporada 1 (Dublado)",
+        "episodes": [
+          { "title": "Episódio 1", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/1.mp4" },
+          { "title": "Episódio 2", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/2.mp4" },
+          { "title": "Episódio 3", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/3.mp4" },
+          { "title": "Episódio 4", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/4.mp4" },
+          { "title": "Episódio 5", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/5.mp4" },
+          { "title": "Episódio 6", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/6.mp4" },
+          { "title": "Episódio 7", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/7.mp4" },
+          { "title": "Episódio 8", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/8.mp4" },
+          { "title": "Episódio 9", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/9.mp4" },
+          { "title": "Episódio 10", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/10.mp4" },
+          { "title": "Episódio 11", "url": "https://lightspeedst.net/s7/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/11.mp4" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "854",
+    "title": "NHK ni Youkoso!",
+    "image_url": "https://files.catbox.moe/qcy9q9.jpeg",
+    "description": "Um anime sobre a vida de um hikikomori.",
+    "categories": ["Drama", "Psicológico", "Legendado"],
+    "seasons": [
+      {
+        "name": "Temporada Completa",
+        "episodes": [
+          { "title": "Episódio 1", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/1.mp4" },
+          { "title": "Episódio 2", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/2.mp4" },
+          { "title": "Episódio 3", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/3.mp4" },
+          { "title": "Episódio 4", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/4.mp4" },
+          { "title": "Episódio 5", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/5.mp4" },
+          { "title": "Episódio 6", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/6.mp4" },
+          { "title": "Episódio 7", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/7.mp4" },
+          { "title": "Episódio 8", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/8.mp4" },
+          { "title": "Episódio 9", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/9.mp4" },
+          { "title": "Episódio 10", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/10.mp4" },
+          { "title": "Episódio 11", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/11.mp4" },
+          { "title": "Episódio 12", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/12.mp4" },
+          { "title": "Episódio 13", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/13.mp4" },
+          { "title": "Episódio 14", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/14.mp4" },
+          { "title": "Episódio 15", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/15.mp4" },
+          { "title": "Episódio 16", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/16.mp4" },
+          { "title": "Episódio 17", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/17.mp4" },
+          { "title": "Episódio 18", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/18.mp4" },
+          { "title": "Episódio 19", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/19.mp4" },
+          { "title": "Episódio 20", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/20.mp4" },
+          { "title": "Episódio 21", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/21.mp4" },
+          { "title": "Episódio 22", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/22.mp4" },
+          { "title": "Episódio 23", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/23.mp4" },
+          { "title": "Episódio 24", "url": "https://lightspeedst.net/s3/mp4/nhk-ni-youkoso/sd/24.mp4" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "31240",
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "image_url": "https://files.catbox.moe/ti71rp.jpg",
+    "description": "Subaru Natsuki é transportado para outro mundo.",
+    "categories": ["Isekai", "Fantasia", "Drama"],
+    "seasons": [
+      {
+        "name": "Temporada 1 (Legendado)",
+        "episodes": [
+          { "title": "Ep 1 (50min)", "url": "https://ucarecdn.com/c42411a7-1929-4cde-9dcb-1bf538c6c0d5/" },
+          { "title": "Ep 2", "url": "https://files.catbox.moe/euw1z1.mp4" },
+          { "title": "Ep 3", "url": "https://files.catbox.moe/8jqf29.mp4" },
+          { "title": "Ep 4", "url": "https://files.catbox.moe/o4e313.mp4" },
+          { "title": "Ep 5", "url": "https://files.catbox.moe/uzp5ss.mp4" },
+          { "title": "Ep 6", "url": "https://files.catbox.moe/w3goq2.mp4" },
+          { "title": "Ep 7", "url": "https://files.catbox.moe/em3h10.mp4" },
+          { "title": "Ep 8", "url": "https://files.catbox.moe/bq8p9d.mp4" },
+          { "title": "Ep 9", "url": "https://files.catbox.moe/ezmrxf.mp4" },
+          { "title": "Ep 10", "url": "https://files.catbox.moe/kbh9vb.mp4" },
+          { "title": "Ep 11", "url": "https://files.catbox.moe/n88ibf.mp4" },
+          { "title": "Ep 12", "url": "https://files.catbox.moe/84mslc.mp4" },
+          { "title": "Ep 13", "url": "https://files.catbox.moe/z5cfgn.mp4" },
+          { "title": "Ep 14", "url": "https://files.catbox.moe/0hcmhs.mp4" },
+          { "title": "Ep 15", "url": "https://files.catbox.moe/5vof0g.mp4" },
+          { "title": "Ep 16", "url": "https://files.catbox.moe/dhthwq.mp4" },
+          { "title": "Ep 17", "url": "https://files.catbox.moe/m4u8ui.mp4" },
+          { "title": "Ep 18", "url": "https://files.catbox.moe/938ogx.mp4" },
+          { "title": "Ep 19", "url": "https://files.catbox.moe/2un1vd.mp4" },
+          { "title": "Ep 20", "url": "https://files.catbox.moe/n1bvuv.mp4" },
+          { "title": "Ep 21", "url": "https://files.catbox.moe/elx1mb.mp4" },
+          { "title": "Ep 22", "url": "https://files.catbox.moe/qdeyz9.mp4" },
+          { "title": "Ep 23", "url": "https://files.catbox.moe/saxwx6.mp4" },
+          { "title": "Ep 24", "url": "https://files.catbox.moe/c3bxx1.mp4" },
+          { "title": "Ep 25", "url": "https://files.catbox.moe/bnbv5i.mp4" }
+        ]
+      },
+      {
+        "name": "Temporada 1 (Dublado)",
+        "episodes": [
+          { "title": "Episódio 1", "url": "https://ucarecdn.com/eea57af5-1e2b-43a5-967a-6b6e5cbaca8e/" },
+          { "title": "Episódio 2", "url": "https://files.catbox.moe/4w5zl1.mp4" },
+          { "title": "Episódio 3", "url": "https://files.catbox.moe/n0wrcs.mp4" },
+          { "title": "Episódio 4", "url": "https://files.catbox.moe/tzzx30.mp4" },
+          { "title": "Episódio 5", "url": "https://ucarecdn.com/e4c52252-2b5d-4bda-9655-1375fa35bd5d/" },
+          { "title": "Episódio 6", "url": "https://files.catbox.moe/3wurzl.mp4" },
+          { "title": "Episódio 7", "url": "https://ucarecdn.com/4371fdeb-949c-4589-95a0-8163f26b6708/" },
+          { "title": "Episódio 8", "url": "https://ucarecdn.com/96e25128-da82-4b22-876a-fd71364bfc03/" },
+          { "title": "Episódio 9", "url": "https://files.catbox.moe/q0i5hu.mp4" },
+          { "title": "Episódio 10", "url": "https://files.catbox.moe/qbgjdq.mp4" },
+          { "title": "Episódio 11", "url": "https://files.catbox.moe/yc70ha.mp4" },
+          { "title": "Episódio 12", "url": "https://files.catbox.moe/nfncgw.mp4" },
+          { "title": "Episódio 13", "url": "https://files.catbox.moe/75f6og.mp4" },
+          { "title": "Episódio 14", "url": "https://files.catbox.moe/bwshgr.mp4" },
+          { "title": "Episódio 15", "url": "https://files.catbox.moe/sbq4ky.mp4" },
+          { "title": "Episódio 16", "url": "https://files.catbox.moe/heq0p5.mp4" },
+          { "title": "Episódio 17", "url": "https://files.catbox.moe/eol71t.mp4" },
+          { "title": "Episódio 18", "url": "https://files.catbox.moe/3mrb3g.mp4" },
+          { "title": "Episódio 19", "url": "https://files.catbox.moe/1ydi0h.mp4" },
+          { "title": "Episódio 20", "url": "https://files.catbox.moe/yasmzw.mp4" },
+          { "title": "Episódio 21", "url": "https://files.catbox.moe/tii1w2.mp4" },
+          { "title": "Episódio 22", "url": "https://files.catbox.moe/5ltsp1.mp4" },
+          { "title": "Episódio 23", "url": "https://files.catbox.moe/j39s7p.mp4" },
+          { "title": "Episódio 24", "url": "https://files.catbox.moe/puari4.mp4" },
+          { "title": "Episódio 25", "url": "https://ucarecdn.com/ce37f251-5578-4561-a381-6d6da5ed7d7e/" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32281",
+    "title": "Kimi no Na wa (Your Name)",
+    "image_url": "https://files.catbox.moe/xla0sf.webp",
+    "description": "Dois estranhos trocam de corpo.",
+    "categories": ["Filme", "Romance", "Sobrenatural"],
+    "seasons": [
+      {
+        "name": "Filmes",
+        "episodes": [
+          { "title": "Filme - Dublado", "url": "https://lightspeedst.net/s3/mp4/kimi-no-na-wa-dublado/sd/1.mp4" },
+          { "title": "Filme - Legendado", "url": "https://lightspeedst.net/s3/mp4/kimi-no-na-wa/sd/1.mp4" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "55585",
+    "title": "Watashi wo Tabetai Hitodenashi",
+    "image_url": "https://files.catbox.moe/ef3r9m.jpg",
+    "description": "História de mistério e sobrenatural.",
+    "categories": ["Mistério", "Sobrenatural", "Legendado"],
+    "seasons": [
+      {
+        "name": "Temporada 1",
+        "episodes": [
+          { "title": "Episódio 01", "url": "https://lightspeedst.net/s5/mp4_temp/watashi-wo-tabetai-hitodenashi/1/480p.mp4" },
+          { "title": "Episódio 02", "url": "https://lightspeedst.net/s5/mp4_temp/watashi-wo-tabetai-hitodenashi/2/480p.mp4" },
+          { "title": "Episódio 03", "url": "https://lightspeedst.net/s5/mp4_temp/watashi-wo-tabetai-hitodenashi/3/480p.mp4" },
+          { "title": "Episódio 04", "url": "https://lightspeedst.net/s5/mp4_temp/watashi-wo-tabetai-hitodenashi/4/480p.mp4" },
+          { "title": "Episódio 05", "url": "https://lightspeedst.net/s5/mp4/watashi-wo-tabetai-hitodenashi/sd/5.mp4" },
+          { "title": "Episódio 06", "url": "https://lightspeedst.net/s5/mp4_temp/watashi-wo-tabetai-hitodenashi/6/480p.mp4" },
+          { "title": "Episódio 07", "url": "https://lightspeedst.net/s5/mp4/watashi-wo-tabetai-hitodenashi/sd/7.mp4" },
+          { "title": "Episódio 08", "url": "https://lightspeedst.net/s5/mp4_temp/watashi-wo-tabetai-hitodenashi/8/480p.mp4" },
+          { "title": "Episódio 09", "url": "https://lightspeedst.net/s2/mp4/watashi-wo-tabetai-hitodenashi/sd/9.mp4" },
+          { "title": "Episódio 10", "url": "https://lightspeedst.net/s2/mp4/watashi-wo-tabetai-hitodenashi/sd/10.mp4" },
+          { "title": "Episódio 11", "url": "https://lightspeedst.net/s2/mp4/watashi-wo-tabetai-hitodenashi/sd/11.mp4" },
+          { "title": "Episódio 12", "url": "https://lightspeedst.net/s2/mp4/watashi-wo-tabetai-hitodenashi/sd/12.mp4" },
+          { "title": "Episódio 13", "url": "https://lightspeedst.net/s2/mp4/watashi-wo-tabetai-hitodenashi/sd/13.mp4" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "52701",
+    "title": "Dandadan",
+    "image_url": "https://files.catbox.moe/5tl41x.jpg",
+    "description": "Fantasmas, alienígenas e batalhas psíquicas.",
+    "categories": ["Ação", "Comédia", "Sobrenatural"],
+    "seasons": [
+      {
+        "name": "Temporada 1",
+        "episodes": [
+          { "title": "Ep 1 (Dublado)", "url": "https://files.catbox.moe/f3e2pe.mp4" },
+          { "title": "Episódio 2", "url": "https://files.catbox.moe/8fkh7x.mp4" },
+          { "title": "Episódio 3", "url": "https://files.catbox.moe/hr29r6.mp4" },
+          { "title": "Episódio 4", "url": "https://files.catbox.moe/54wo2n.mp4" },
+          { "title": "Episódio 5", "url": "https://files.catbox.moe/whx4w0.mp4" },
+          { "title": "Episódio 6", "url": "https://files.catbox.moe/n63htj.mp4" },
+          { "title": "Episódio 7", "url": "https://files.catbox.moe/5ittup.mp4" },
+          { "title": "Episódio 8", "url": "https://files.catbox.moe/nep3zs.mp4" },
+          { "title": "Episódio 9", "url": "https://files.catbox.moe/ewft5w.mp4" },
+          { "title": "Episódio 10", "url": "https://files.catbox.moe/gs52qo.mp4" },
+          { "title": "Episódio 11", "url": "https://files.catbox.moe/0n7nzl.mp4" },
+          { "title": "Episódio 12", "url": "https://files.catbox.moe/pmoywp.mp4" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "50275",
+    "title": "Kotaro Vai Morar Sozinho",
+    "image_url": "https://files.catbox.moe/2vd2if.jpg",
+    "description": "A vida de uma criança que mora sozinha.",
+    "categories": ["Slice of Life", "Comédia"],
+    "seasons": [
+      {
+        "name": "Temporada 1",
+        "episodes": [
+          { "title": "Ep 1 (Dublado)", "url": "https://files.catbox.moe/9ntrfp.mp4" },
+          { "title": "Episódio 2", "url": "https://files.catbox.moe/stivpp.mp4" },
+          { "title": "Episódio 3", "url": "https://files.catbox.moe/g2fyv0.mp4" },
+          { "title": "Episódio 4", "url": "https://files.catbox.moe/9g2tdm.mp4" },
+          { "title": "Episódio 5", "url": "https://files.catbox.moe/1lokqj.mp4" },
+          { "title": "Episódio 6", "url": "https://files.catbox.moe/yc01a2.mp4" },
+          { "title": "Episódio 7", "url": "https://files.catbox.moe/vp2w3s.mp4" },
+          { "title": "Episódio 8", "url": "https://files.catbox.moe/gnb6ip.mp4" },
+          { "title": "Episódio 9", "url": "https://files.catbox.moe/7nckkn.mp4" },
+          { "title": "Episódio 10", "url": "https://files.catbox.moe/243gbf.mp4" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "41353",
+    "title": "Tonikaku Kawaii",
+    "image_url": "https://files.catbox.moe/aru1y0.jpg",
+    "description": "A história de um casal jovem e fofo.",
+    "categories": ["Romance", "Shounen"],
+    "seasons": [
+      {
+        "name": "Temporada 1",
+        "episodes": [
+          { "title": "Ep 1 (Dublado)", "url": "https://files.catbox.moe/tp1akk.mp4" },
+          { "title": "Episódio 2", "url": "https://files.catbox.moe/jss8l5.mp4" },
+          { "title": "Episódio 3", "url": "https://files.catbox.moe/p5k23k.mp4" },
+          { "title": "Episódio 4", "url": "https://files.catbox.moe/g2yuyj.mp4" },
+          { "title": "Episódio 5", "url": "https://files.catbox.moe/xjfhck.mp4" },
+          { "title": "Episódio 6", "url": "https://files.catbox.moe/00s1zt.mp4" },
+          { "title": "Episódio 7", "url": "https://files.catbox.moe/g38l1p.mp4" },
+          { "title": "Episódio 8", "url": "https://files.catbox.moe/4nnhuc.mp4" },
+          { "title": "Episódio 9", "url": "https://files.catbox.moe/wng95c.mp4" },
+          { "title": "Episódio 10", "url": "https://files.catbox.moe/7lg9c9.mp4" },
+          { "title": "Episódio 11", "url": "https://files.catbox.moe/3z31a9.mp4" },
+          { "title": "Episódio 12", "url": "https://files.catbox.moe/mck588.mp4" }
+        ]
+      },
+      {
+        "name": "Temporada 2",
+        "episodes": [
+          { "title": "Episódio 1", "url": "https://files.catbox.moe/hj5ddy.mp4" },
+          { "title": "Episódio 2", "url": "https://files.catbox.moe/cx1nuy.mp4" },
+          { "title": "Episódio 3", "url": "https://files.catbox.moe/vrjjyh.mp4" },
+          { "title": "Episódio 4", "url": "https://files.catbox.moe/d7u5gt.mp4" },
+          { "title": "Episódio 5", "url": "https://files.catbox.moe/bvbue6.mp4" },
+          { "title": "Episódio 6", "url": "https://files.catbox.moe/niyf9l.mp4" },
+          { "title": "Episódio 7", "url": "https://files.catbox.moe/tmxjvo.mp4" },
+          { "title": "Episódio 8", "url": "https://files.catbox.moe/dnx53l.mp4" },
+          { "title": "Episódio 9", "url": "https://files.catbox.moe/jrn9p7.mp4" },
+          { "title": "Episódio 10", "url": "https://files.catbox.moe/nqlvtp.mp4" },
+          { "title": "Episódio 11", "url": "https://files.catbox.moe/rgfmvj.mp4" },
+          { "title": "Episódio 12", "url": "https://files.catbox.moe/bjbcod.mp4" },
+          { "title": "Episódio 13", "url": "https://files.catbox.moe/6egukc.mp4" }
+        ]
+      }
+    ]
+  }
+]
