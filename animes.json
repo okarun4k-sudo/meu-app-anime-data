@@ -1,5 +1,59 @@
 [
   {
+    "id": "71932",
+    "title": "Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha",
+    "image_url": "https://files.catbox.moe/a2k7ku.jpg",
+    "description": "O filme é dividido em duas histórias. Em 'Ishi Okoshi', Natsume encontra um pequeno Youkai chamado Mitsumi em uma floresta, encarregado de acordar o divino Youkai 'Iwatetsu' de seu sono profundo. Natsume decide ajudar Mitsumi em sua missão. Em 'Ayashiki Raihousha', um visitante misterioso aparece diante de Tanuma. Quase todos os dias, esse visitante conversa com ele e depois vai embora. Natsume sabe que o visitante é um Youkai, mas Tanuma passou a desfrutar dessas interações, mesmo que a saúde dele comece a ser afetada.",
+    "categories": ["Slice of Life", "Sobrenatural", "Drama", "Fantasia"],
+    "seasons": [
+      {
+        "name": "Filme (Legendado)",
+        "episodes": [
+          { 
+            "title": "Filme Completo", 
+            "url": "https://lightspeedst.net/s1/mp4/natsume-yuujinchou-ishi-okoshi-to-ayashiki-raihousha/sd/1.mp4" 
+          }
+        ]
+      }
+    ]
+},
+  {
+    "id": "67420",
+    "title": "Suzume no Tojimari",
+    "image_url": "https://files.catbox.moe/0uyguf.jpg",
+    "description": "A jornada de Suzume, uma jovem de 17 anos, começa em uma cidade tranquila em Kyushu quando ela conhece um jovem que diz estar procurando por uma porta. Ao segui-lo, ela encontra uma porta misteriosa e desgastada no meio de ruínas. Ao abri-la, portas começam a surgir por todo o Japão, liberando desastres do outro lado. Suzume deve agora embarcar em uma missão para fechar e trancar todas essas portas para evitar uma catástrofe nacional, enquanto explora paisagens desconhecidas e lida com traumas do passado.",
+    "categories": ["Aventura", "Fantasia", "Drama", "Sobrenatural"],
+    "seasons": [
+      {
+        "name": "Filme (Legendado)",
+        "episodes": [
+          { 
+            "title": "Filme Completo", 
+            "url": "https://lightspeedst.net/s6/mp4/suzume-no-tojimari/sd/1.mp4" 
+          }
+        ]
+      }
+    ]
+},
+  {
+    "id": "58291",
+    "title": "Psycho-Pass Movie: Providence",
+    "image_url": "https://files.catbox.moe/dinx8z.webp",
+    "description": "Janeiro de 2118. Enquanto assiste a uma conferência como Inspetora-Chefe do Departamento de Investigação Criminal, Akane Tsunemori recebe um relatório sobre um incidente em um navio estrangeiro. Akane e Shinya Kogami, que agora atua como conselheiro tático para o Departamento de Supressão, precisam unir forças para investigar o grupo conhecido como 'Peacebreakers'. A equipe busca recuperar os 'Documentos de Stronskaya', uma verdade oculta que pode abalar os alicerces do Sistema Sibyl e do governo japonês.",
+    "categories": ["Ação", "Ficção Científica", "Policial", "Psicológico"],
+    "seasons": [
+      {
+        "name": "Filme (Legendado)",
+        "episodes": [
+          { 
+            "title": "Filme Completo", 
+            "url": "https://lightspeedst.net/s6/mp4/psycho-pass-movie-providence/sd/1.mp4" 
+          }
+        ]
+      }
+    ]
+},
+  {
     "id": "45678",
     "title": "Rascal Does Not Dream of a Sister Venturing Out",
     "image_url": "https://files.catbox.moe/pss0ny.webp",
