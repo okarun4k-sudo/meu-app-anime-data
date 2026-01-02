@@ -1,5 +1,31 @@
 [
   {
+    "id": "32286",
+    "title": "Magical Senpai",
+    "image_url": "https://files.catbox.moe/18v60y.jpg",
+    "description": "O encontro de um calouro com uma veterana apaixonada por mágica, mas que sofre de um terrível medo de palco que faz com que todos os seus truques falhem de forma cômica e, muitas vezes, embaraçosa. Forçado a se tornar seu assistente, ele agora precisa lidar com as situações absurdas criadas pelas tentativas atrapalhadas da Senpai de se tornar uma grande ilusionista.",
+    "categories": ["Comédia", "Ecchi", "Escolar", "Slice of Life"],
+    "seasons": [
+      {
+        "name": "Temporada 1 (Legendado)",
+        "episodes": [
+          { "title": "Episódio 1", "url": "https://files.catbox.moe/forn0c.mp4" },
+          { "title": "Episódio 2", "url": "https://files.catbox.moe/acdrd9.mp4" },
+          { "title": "Episódio 3", "url": "https://files.catbox.moe/3i7m1b.mp4" },
+          { "title": "Episódio 4", "url": "https://files.catbox.moe/sfdztf.mp4" },
+          { "title": "Episódio 5", "url": "https://files.catbox.moe/4ezlwy.mp4" },
+          { "title": "Episódio 6", "url": "https://files.catbox.moe/ei2hjp.mp4" },
+          { "title": "Episódio 7", "url": "https://files.catbox.moe/pyurat.mp4" },
+          { "title": "Episódio 8", "url": "https://files.catbox.moe/cpx3d7.mp4" },
+          { "title": "Episódio 9", "url": "https://files.catbox.moe/4qw0l2.mp4" },
+          { "title": "Episódio 10", "url": "https://files.catbox.moe/fl0cv8.mp4" },
+          { "title": "Episódio 11", "url": "https://files.catbox.moe/n3gswq.mp4" },
+          { "title": "Episódio 12", "url": "https://files.catbox.moe/id6x72.mp4" }
+        ]
+      }
+    ]
+},
+  {
     "id": "53421",
     "title": "Dosanko Gal wa Namara Menkoi",
     "image_url": "https://files.catbox.moe/mushuq.jpg",
