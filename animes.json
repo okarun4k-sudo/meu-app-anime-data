@@ -1,5 +1,23 @@
 [
   {
+    "id": "45678",
+    "title": "Rascal Does Not Dream of a Sister Venturing Out",
+    "image_url": "https://files.catbox.moe/pss0ny.webp",
+    "description": "O que será necessário para realizar seu desejo? Depois de um dezembro exaustivo, Sakuta está rapidamente se aproximando do final do segundo ano do ensino médio. Como Mai é uma estudante do terceiro ano, eles não têm muito tempo juntos antes da formatura. Enquanto isso, sua irmã, Kaede, está se aventurando lenta mas continuamente ao ar livre novamente. Assim que ela começa a se firmar, ela anuncia seu objetivo mais ambicioso até então: cursar o ensino médio de seu irmão! Sakuta sabe melhor do que ninguém o quão difícil isso será para Kaede e está pronto para apoiá-la como puder. Ele só não tem certeza se isso é o melhor para ela... ou o que ela realmente quer...",
+    "categories": ["Drama", "Romance", "Sobrenatural"],
+    "seasons": [
+      {
+        "name": "Filme (Legendado)",
+        "episodes": [
+          { 
+            "title": "Filme Completo", 
+            "url": "https://lightspeedst.net/s6/mp4/seishun-buta-yarou-wa-odekake-sister-no-yume-wo-minai/sd/1.mp4" 
+          }
+        ]
+      }
+    ]
+},
+  {
     "id": "32286",
     "title": "Magical Senpai",
     "image_url": "https://files.catbox.moe/18v60y.jpg",
