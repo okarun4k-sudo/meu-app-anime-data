@@ -1,5 +1,57 @@
 [
   {
+    "id": "10429",
+    "title": "Kakushite! Makina-san",
+    "image_url": "https://files.catbox.moe/329gig.webp",
+    "description": "Makina é uma garota robô de última geração, mas com um pequeno segredo: ela quer desesperadamente viver uma vida escolar normal e ser popular. Para isso, ela precisa esconder sua natureza mecânica a todo custo, o que se torna um desafio hilário quando suas funções robóticas começam a falhar ou agir de forma inesperada nos momentos mais inoportunos. Uma comédia cheia de situações embaraçosas e descobertas sobre o que significa ser humano.",
+    "categories": ["Comédia", "Ecchi", "Escolar", "Ficção Científica"],
+    "seasons": [
+      {
+        "name": "Temporada 1 (Legendado)",
+        "episodes": [
+          { "title": "Episódio 1", "url": "https://files.catbox.moe/i2pkam.mp4" },
+          { "title": "Episódio 2", "url": "https://files.catbox.moe/qsr97o.mp4" },
+          { "title": "Episódio 3", "url": "https://files.catbox.moe/yts6pl.mp4" },
+          { "title": "Episódio 4", "url": "https://files.catbox.moe/mvvxqy.mp4" },
+          { "title": "Episódio 5", "url": "https://files.catbox.moe/wu494w.mp4" },
+          { "title": "Episódio 6", "url": "https://files.catbox.moe/6lfld3.mp4" },
+          { "title": "Episódio 7", "url": "https://files.catbox.moe/xj17th.mp4" },
+          { "title": "Episódio 8", "url": "https://files.catbox.moe/8gucx5.mp4" },
+          { "title": "Episódio 9", "url": "https://files.catbox.moe/tebvj8.mp4" },
+          { "title": "Episódio 10", "url": "https://files.catbox.moe/wdeupa.mp4" },
+          { "title": "Episódio 11", "url": "https://files.catbox.moe/ahny2f.mp4" },
+          { "title": "Episódio 12", "url": "https://files.catbox.moe/b7x208.mp4" }
+        ]
+      }
+    ]
+},
+  {
+    "id": "40750",
+    "title": "Kaifuku Jutsushi no Yarinaoshi (SEM CENSURA)",
+    "image_url": "https://files.catbox.moe/lh8iqt.jpg",
+    "description": "Keyaru é um mago curandeiro que foi explorado e torturado por anos por outros heróis que o viam apenas como uma ferramenta. No entanto, ele atinge a cura definitiva e consegue 'curar' o próprio mundo, voltando quatro anos no tempo para refazer sua vida. Agora, armado com o conhecimento do futuro e poderes regenerativos devastadores, ele embarca em uma jornada de vingança sangrenta e cruel contra todos que o humilharam.",
+    "categories": ["Ação", "Fantasia", "Ecchi", "Drama", "Gore"],
+    "seasons": [
+      {
+        "name": "Temporada 1 (Legendado)",
+        "episodes": [
+          { "title": "Episódio 1", "url": "https://files.catbox.moe/03jllo.mp4" },
+          { "title": "Episódio 2", "url": "https://files.catbox.moe/7rd0kl.mp4" },
+          { "title": "Episódio 3", "url": "https://files.catbox.moe/unlfx4.mp4" },
+          { "title": "Episódio 4", "url": "https://files.catbox.moe/plxcr7.mp4" },
+          { "title": "Episódio 5", "url": "https://files.catbox.moe/vxaffg.mp4" },
+          { "title": "Episódio 6", "url": "https://files.catbox.moe/9dv7ll.mp4" },
+          { "title": "Episódio 7", "url": "https://files.catbox.moe/9nll39.mp4" },
+          { "title": "Episódio 8", "url": "https://files.catbox.moe/52wcom.mp4" },
+          { "title": "Episódio 9", "url": "https://files.catbox.moe/gph5sa.mp4" },
+          { "title": "Episódio 10", "url": "https://files.catbox.moe/fu9aj6.mp4" },
+          { "title": "Episódio 11", "url": "https://files.catbox.moe/i2t1s2.mp4" },
+          { "title": "Episódio 12", "url": "https://files.catbox.moe/yy063a.mp4" }
+        ]
+      }
+    ]
+},
+  {
     "id": "55210",
     "title": "5-toubun no Hanayome Movie",
     "image_url": "https://files.catbox.moe/urb83x.webp",
