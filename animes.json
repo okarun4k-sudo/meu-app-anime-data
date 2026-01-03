@@ -1,5 +1,58 @@
 [
   {
+    "id": "88231",
+    "title": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+    "image_url": "https://files.catbox.moe/g2xdg7.webp",
+    "description": "Especial de TV para Kaguya-sama wa Kokurasetai.",
+    "categories": ["Comédia", "Drama", "Romance"],
+    "seasons": [
+      {
+        "name": "Especial de TV (Legendado)",
+        "episodes": [
+          { 
+            "title": "Parte 1", 
+            "url": "https://lightspeedst.net/s2/mp4_temp/kaguya-sama-wa-kokurasetai-otona-e-no-kaidan/1/480p.mp4" 
+          },
+          { 
+            "title": "Parte 2", 
+            "url": "https://lightspeedst.net/s2/mp4_temp/kaguya-sama-wa-kokurasetai-otona-e-no-kaidan/2/480p.mp4" 
+          }
+        ]
+      }
+    ]
+},
+  {
+    "id": "21674",
+    "title": "ReLIFE",
+    "image_url": "https://files.catbox.moe/w9qgy1.jpg",
+    "description": "Arata Kaizaki é um homem de 27 anos, desempregado e com dificuldades em todas as entrevistas de emprego. Sua vida muda quando ele conhece Ryo Yoake, que lhe oferece uma pílula capaz de fazê-lo parecer ter 17 anos novamente. Arata agora deve participar de um experimento de um ano, voltando ao ensino médio para tentar corrigir os erros de sua vida e encontrar um novo caminho, mas ele logo descobre que a juventude é muito mais complexa do que ele lembrava.",
+    "categories": ["Romance", "Escolar", "Slice of Life", "Drama"],
+    "seasons": [
+      {
+        "name": "Temporada Completa (Legendado)",
+        "episodes": [
+          { "title": "Episódio 1", "url": "https://files.catbox.moe/bwdrwo.mp4" },
+          { "title": "Episódio 2", "url": "https://files.catbox.moe/mm20rt.mp4" },
+          { "title": "Episódio 3", "url": "https://files.catbox.moe/c04gq8.mp4" },
+          { "title": "Episódio 4", "url": "https://files.catbox.moe/5fw6gu.mp4" },
+          { "title": "Episódio 5", "url": "https://files.catbox.moe/y8brw8.mp4" },
+          { "title": "Episódio 6", "url": "https://files.catbox.moe/wjojzj.mp4" },
+          { "title": "Episódio 7", "url": "https://files.catbox.moe/hvcdax.mp4" },
+          { "title": "Episódio 8", "url": "https://files.catbox.moe/4s5bax.mp4" },
+          { "title": "Episódio 9", "url": "https://files.catbox.moe/8s9dyh.mp4" },
+          { "title": "Episódio 10", "url": "https://files.catbox.moe/jt66f1.mp4" },
+          { "title": "Episódio 11", "url": "https://files.catbox.moe/krpc5i.mp4" },
+          { "title": "Episódio 12", "url": "https://files.catbox.moe/w8essh.mp4" },
+          { "title": "Episódio 13", "url": "https://files.catbox.moe/zu6n3p.mp4" },
+          { "title": "Episódio 14", "url": "https://files.catbox.moe/zmmj72.mp4" },
+          { "title": "Episódio 15", "url": "https://files.catbox.moe/ncyi9u.mp4" },
+          { "title": "Episódio 16", "url": "https://files.catbox.moe/grmwt6.mp4" },
+          { "title": "Episódio 17", "url": "https://files.catbox.moe/4mfurc.mp4" }
+        ]
+      }
+    ]
+},
+  {
     "id": "71932",
     "title": "Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha",
     "image_url": "https://files.catbox.moe/a2k7ku.jpg",
