@@ -1,5 +1,59 @@
 [
   {
+    "id": "55210",
+    "title": "5-toubun no Hanayome Movie",
+    "image_url": "https://files.catbox.moe/urb83x.webp",
+    "description": "Fuutarou levou cinco quíntuplos ao ponto em que eles podem se formar e perseguir seus próprios sonhos. Agora, finalmente, eles chegaram ao último festival escolar. Tendo decidido tornar esta ocasião inesquecível, Fuutarou procura seus sentimentos pelos cinco quíntuplos.",
+    "categories": ["Comédia", "Romance"],
+    "seasons": [
+      {
+        "name": "Filme (Dublado)",
+        "episodes": [
+          { 
+            "title": "Filme Completo", 
+            "url": "https://lightspeedst.net/s6/mp4/5-toubun-no-hanayome-movie-dublado/sd/1.mp4" 
+          }
+        ]
+      }
+    ]
+},
+  {
+    "id": "11409",
+    "title": "Bakemono no Ko",
+    "image_url": "https://files.catbox.moe/yb27cg.webp",
+    "description": "Duas almas, vivendo vidas muito diferentes, vagam sozinhas e isoladas em seus respectivos mundos. Para Ren, de nove anos, a última pessoa que o tratou com qualquer forma de bondade foi morta, e ele é evitado pelo que resta de sua família. Sem pais, sem família verdadeira e sem lugar para ir, Ren foge pelas ruas e becos confusos de Shibuya. Através das voltas e reviravoltas dos becos, Ren tropeça no intimidante Kumatetsu, que o leva ao reino animal de Shibuten. Para Kumatetsu, o menino representa uma chance de se tornar um candidato para substituir o senhor do reino assim que se aposentar. Embora quase incomparável em combate, a personalidade fria de Kumatetsu o deixa sem discípulos para ensinar e sem maneira de provar que é digno de se tornar o sucessor do senhor. Embora os dois compartilhem objetivos diferentes, eles concordam em ajudar um ao outro para alcançá-los. Kumatetsu busca reconhecimento; Ren, agora conhecido como Kyuuta, procura a casa que nunca teve. Com o passar dos anos, começa a ficar evidente que os dois estão se ajudando de mais maneiras do que pensavam inicialmente. Talvez sempre tenha havido menos diferença entre eles, um menino e uma fera, do que qualquer um dos dois jamais percebeu.",
+    "categories": ["Aventura", "Fantasia"],
+    "seasons": [
+      {
+        "name": "Filme (Dublado)",
+        "episodes": [
+          { 
+            "title": "Filme Completo", 
+            "url": "https://lightspeedst.net/s6/mp4/bakemono-no-ko-dublado/sd/1.mp4" 
+          }
+        ]
+      }
+    ]
+},
+  {
+    "id": "99142",
+    "title": "Black Clover: Mahou Tei no Ken",
+    "image_url": "https://files.catbox.moe/ljwny3.webp",
+    "description": "Enquanto um menino com coração de leão que não sabe manejar magia luta pelo título de Rei Mago, quatro Reis Magos banidos de outrora retornam para destruir o Reino Clover.",
+    "categories": ["Ação", "Comédia", "Fantasia"],
+    "seasons": [
+      {
+        "name": "Filme (Dublado)",
+        "episodes": [
+          { 
+            "title": "Filme Completo", 
+            "url": "https://lightspeedst.net/s6/mp4/black-clover-mahou-tei-no-ken-dublado/sd/1.mp4" 
+          }
+        ]
+      }
+    ]
+},
+  {
     "id": "88231",
     "title": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
     "image_url": "https://files.catbox.moe/g2xdg7.webp",
@@ -83,6 +137,10 @@
           { 
             "title": "Filme Completo", 
             "url": "https://lightspeedst.net/s6/mp4/suzume-no-tojimari/sd/1.mp4" 
+          },
+            { 
+            "title": "Filme (Dublado)", 
+            "url": "https://lightspeedst.net/s2/mp4_temp/kaguya-sama-wa-kokurasetai-otona-e-no-kaidan/2/480p.mp4" 
           }
         ]
       }
