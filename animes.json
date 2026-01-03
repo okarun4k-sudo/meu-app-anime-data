@@ -59,10 +59,10 @@
     "categories": ["Comédia", "Romance"],
     "seasons": [
       {
-        "name": "Filme (Dublado)",
+        "name": "Filmes",
         "episodes": [
           { 
-            "title": "Filme Completo", 
+            "title": "Filme Completo (Dublado)", 
             "url": "https://lightspeedst.net/s6/mp4/5-toubun-no-hanayome-movie-dublado/sd/1.mp4" 
           }
         ]
@@ -77,10 +77,10 @@
     "categories": ["Aventura", "Fantasia"],
     "seasons": [
       {
-        "name": "Filme (Dublado)",
+        "name": "Filmes",
         "episodes": [
           { 
-            "title": "Filme Completo", 
+            "title": "Filme Completo (Dublado)", 
             "url": "https://lightspeedst.net/s6/mp4/bakemono-no-ko-dublado/sd/1.mp4" 
           }
         ]
@@ -95,10 +95,10 @@
     "categories": ["Ação", "Comédia", "Fantasia"],
     "seasons": [
       {
-        "name": "Filme (Dublado)",
+        "name": "Filmes",
         "episodes": [
           { 
-            "title": "Filme Completo", 
+            "title": "Filme Completo (Dublado)", 
             "url": "https://lightspeedst.net/s6/mp4/black-clover-mahou-tei-no-ken-dublado/sd/1.mp4" 
           }
         ]
@@ -166,10 +166,10 @@
     "categories": ["Slice of Life", "Sobrenatural", "Drama", "Fantasia"],
     "seasons": [
       {
-        "name": "Filme (Legendado)",
+        "name": "Filmes",
         "episodes": [
           { 
-            "title": "Filme Completo", 
+            "title": "Filme Completo (Legendado)", 
             "url": "https://lightspeedst.net/s1/mp4/natsume-yuujinchou-ishi-okoshi-to-ayashiki-raihousha/sd/1.mp4" 
           }
         ]
@@ -184,10 +184,10 @@
     "categories": ["Aventura", "Fantasia", "Drama", "Sobrenatural"],
     "seasons": [
       {
-        "name": "Filme (Legendado)",
+        "name": "Filmes",
         "episodes": [
           { 
-            "title": "Filme Completo", 
+            "title": "Filme Completo  (Legendado)", 
             "url": "https://lightspeedst.net/s6/mp4/suzume-no-tojimari/sd/1.mp4" 
           },
             { 
@@ -206,10 +206,10 @@
     "categories": ["Ação", "Ficção Científica", "Policial", "Psicológico"],
     "seasons": [
       {
-        "name": "Filme (Legendado)",
+        "name": "Filmes",
         "episodes": [
           { 
-            "title": "Filme Completo", 
+            "title": "Filme Completo (Legendado)", 
             "url": "https://lightspeedst.net/s6/mp4/psycho-pass-movie-providence/sd/1.mp4" 
           }
         ]
@@ -224,10 +224,10 @@
     "categories": ["Drama", "Romance", "Sobrenatural"],
     "seasons": [
       {
-        "name": "Filme (Legendado)",
+        "name": "Filmes",
         "episodes": [
           { 
-            "title": "Filme Completo", 
+            "title": "Filme Completo (Legendado)", 
             "url": "https://lightspeedst.net/s6/mp4/seishun-buta-yarou-wa-odekake-sister-no-yume-wo-minai/sd/1.mp4" 
           }
         ]
@@ -402,7 +402,7 @@
       {
         "name": "OVA",
         "episodes": [
-          { "title": "Filme - DubladoAnother: The Other - Inga", "url": "https://lightspeedst.net/s2/mp4/another-the-other---inga/sd/1.mp4" }
+          { "title": "Filme - Dublado Another: The Other - Inga", "url": "https://lightspeedst.net/s2/mp4/another-the-other---inga/sd/1.mp4" }
         ]
       }
     ]
